@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "My Body",
+  "base_artist": "HANA",
+  "createdAt": "2025-12-07T12:30:32.238696Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Touch My Body",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/01_Touch_My_Body_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pump My Body to the Top",
+      "artist": "Lords of Acid",
+      "has_synced": true,
+      "path": "select/02_Pump_My_Body_to_the_Top_Lords_of_Acid.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pump My Body to the Top",
+      "artist": "Lords Of Acid",
+      "has_synced": false,
+      "path": "select/03_Pump_My_Body_to_the_Top_Lords_Of_Acid.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Body",
+      "artist": "Molly Nilsson",
+      "has_synced": false,
+      "path": "select/04_My_Body_Molly_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Touch My Body",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/05_Touch_My_Body_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "In My Body",
+      "artist": "Panda Bear feat. Sonic Boom",
+      "has_synced": true,
+      "path": "select/06_In_My_Body_Panda_Bear_feat._Sonic_Boom.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In My Body",
+      "artist": "Panda Bear",
+      "has_synced": true,
+      "path": "select/07_In_My_Body_Panda_Bear.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drugs In My Body",
+      "artist": "Thieves Like Us",
+      "has_synced": true,
+      "path": "select/08_Drugs_In_My_Body_Thieves_Like_Us.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Make My Body Rock (Basic mix)",
+      "artist": "Jomanda",
+      "has_synced": false,
+      "path": "select/09_Make_My_Body_Rock_(Basic_mix)_Jomanda.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Body Is a Cage",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/10_My_Body_Is_a_Cage_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Body Is a Cage",
+      "artist": "Monarchy",
+      "has_synced": false,
+      "path": "select/11_My_Body_Is_a_Cage_Monarchy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Steal My Body Home",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/12_Steal_My_Body_Home_Beck.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Break My Body",
+      "artist": "Pixies",
+      "has_synced": true,
+      "path": "select/13_Break_My_Body_Pixies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My Body",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/pl_01_My_Body_HANA.txt"
+    }
+  ]
+}
